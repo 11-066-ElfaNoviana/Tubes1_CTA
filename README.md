@@ -81,7 +81,7 @@ npm install --global yarn
 6. Untuk menjalankan satu bot, jalankan perintah
 
 
-python main.py --logic MyBot --email=your_email@example.com --name=your_name --password=your_password --team etimo
+python main.py --logic Jeno --email=your_email@example.com --name=stima1 --password=your_password --team etimo
 
 
 Untuk menjalankan beberapa bot sekaligus jalankan perintah berikut
