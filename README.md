@@ -26,39 +26,36 @@ Algoritma greedy yang digunakan sebagai berikut:
 
 *
 ├── doc
-│   └── cta.pdf
+│   └── tbfoReborn.pdf
 └── src
     ├── __pycache__
-    │   └── decode.cpython-311.pyc
+    │   └── decode.cpython-311.pyc
     ├── decode.py
     ├── game
-    │   ├── __pycache__
-    │   │   ├── __init__.cpython-311.pyc
-    │   │   ├── api.cpython-311.pyc
-    │   │   ├── board_handler.cpython-311.pyc
-    │   │   ├── bot_handler.cpython-311.pyc
-    │   │   ├── models.cpython-311.pyc
-    │   │   └── util.cpython-311.pyc
-    │   ├── _init_py
-    │   ├── api.py
-    │   ├── board_handler.py
-    │   ├── bot_handler.py
-    │   ├── logic
-    │   │   ├── __init__.py
-    │   │   ├── __pycache__
-    │   │   │   ├── __init__.cpython-311.pyc
-    │   │   │   ├── base.cpython-311.pyc
-    │   │   │   ├── mybot.cpython-311.pyc
-    │   │   │   └── random.cpython-311.pyc
-    │   │   ├── base.py
-    │   │   ├── jeno.py
-    │   │   └── random.py
-    │   ├── models.py
-    │   └── util.py
-    ├── .gitignore
-    ├── decode.py
+    │   ├── __init__.py
+    │   ├── __pycache__
+    │   │   ├── __init__.cpython-311.pyc
+    │   │   ├── api.cpython-311.pyc
+    │   │   ├── board_handler.cpython-311.pyc
+    │   │   ├── bot_handler.cpython-311.pyc
+    │   │   ├── models.cpython-311.pyc
+    │   │   └── util.cpython-311.pyc
+    │   ├── api.py
+    │   ├── board_handler.py
+    │   ├── bot_handler.py
+    │   ├── logic
+    │   │   ├── __init__.py
+    │   │   ├── __pycache__
+    │   │   │   ├── __init__.cpython-311.pyc
+    │   │   │   ├── base.cpython-311.pyc
+    │   │   │   ├── mybot.cpython-311.pyc
+    │   │   │   └── random.cpython-311.pyc
+    │   │   ├── base.py
+    │   │   ├── mybot.py
+    │   │   └── random.py
+    │   ├── models.py
+    │   └── util.py
     ├── main.py
-    ├── README.md
     ├── requirements.txt
     ├── run-bots.bat
     └── run-bots.sh
