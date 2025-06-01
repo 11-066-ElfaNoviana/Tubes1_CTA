@@ -55,6 +55,7 @@ Terkait permainan dapat dilihat pada pranala [ini](https://drive.google.com/file
     ├── requirements.txt
     ├── run-bots.bat
     └── run-bots.sh
+*
 
 
 ## Requirement
