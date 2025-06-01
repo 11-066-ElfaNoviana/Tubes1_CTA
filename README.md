@@ -24,7 +24,7 @@ Algoritma greedy yang digunakan sebagai berikut:
 
 ## File Structures
 
-├── doc
+├── doc\n
 │└── cta.pdf
 ├── src
 │ ├── pycache
