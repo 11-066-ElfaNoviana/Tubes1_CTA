@@ -52,10 +52,13 @@ Algoritma greedy yang digunakan sebagai berikut:
     │   │   │   ├── mybot.cpython-311.pyc
     │   │   │   └── random.cpython-311.pyc
     │   │   ├── base.py
+    │   │   ├── jeno.py
     │   │   ├── mybot.py
     │   │   └── random.py
     │   ├── models.py
     │   └── util.py
+    ├── .gitignore
+    ├── decode.py
     ├── main.py
     ├── requirements.txt
     ├── run-bots.bat
