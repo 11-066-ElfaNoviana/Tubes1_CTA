@@ -24,9 +24,39 @@ Algoritma greedy yang digunakan sebagai berikut:
 
 ## File Structures
 
-├── doc                                                                                     
+├── doc                                                                                     │└── cta.pdf                                                                                  ├── doc
 │└── cta.pdf
-
+├── src
+│ ├── pycache
+│ │ ├── decode.cpython-311.pyc
+│ │ ├── api.cpython-311.pyc
+│ │ ├── board_handler.cpython-311.pyc
+│ │ ├── bot_handler.cpython-311.pyc
+│ │ ├── models.cpython-311.pyc
+│ │ └── util.cpython-311.pyc
+│ ├── decode.py
+│ ├── api.py
+│ ├── board_handler.py
+│ ├── bot_handler.py
+│ ├── logic
+│ │ ├── init.py
+│ │ ├── pycache
+│ │ │ ├── base.cpython-311.pyc
+│ │ │ ├── mybot.cpython-311.pyc
+│ │ │ └── random.cpython-311.pyc
+│ │ ├── base.py
+│ │ ├── mybot.py
+│ │ └── random.py
+│ ├── models.py
+│ └── util.py
+├── .gitignore
+├── decode.py
+├── jeno.py
+├── main.py
+├── README.md
+├── requirements.txt
+├── run-bots.bat
+└── run-bots.sh
 
 ## Requirement
 
