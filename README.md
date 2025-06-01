@@ -24,7 +24,7 @@ Algoritma greedy yang digunakan sebagai berikut:
 
 ## File Structures
 
-<pre>```plaintext project-root/
+<pre>
 ├── doc
 │└── cta.pdf
 ├── doc
@@ -60,7 +60,7 @@ Algoritma greedy yang digunakan sebagai berikut:
 ├── requirements.txt
 ├── run-bots.bat
 └── run-bots.sh
-run-bots.sh ``` </pre>
+</pre>
 
 ## Requirement
 
