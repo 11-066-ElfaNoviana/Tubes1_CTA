@@ -71,7 +71,7 @@ npm install --global yarn
 ## Setup and Usage
 
 1. Download dan lakukan instalasi game engine dengan mengikuti instruksi pada pranala [berikut](https://docs.google.com/spreadsheets/d/1FJ0SS6AtDuOtYBe7_bViBHV0cmOipCHIhLPDQMhwvlE/edit?gid=0#gid=0)
-2. Clone repository berikut git clone https://github.com/BryanLauw/Tubes1_tbfoReborn.git
+2. Clone repository berikut git clone https://github.com/11-066-ElfaNoviana/Tubes1_CTA
 3. Ganti ke root directory folder src dengan perintah cd src
 4. Install package python dengan perintah pip install -r requirement.txt
 5. Untuk menjalankan bot, nyalakan terlebih dahulu game engine
