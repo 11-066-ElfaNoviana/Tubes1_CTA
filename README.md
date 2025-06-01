@@ -27,8 +27,6 @@ Algoritma greedy yang digunakan sebagai berikut:
 <pre>
 ├── doc
 │└── cta.pdf
-├── doc
-│└── cta.pdf
 ├── src
 │ ├── pycache
 │ │ ├── decode.cpython-311.pyc
@@ -49,12 +47,12 @@ Algoritma greedy yang digunakan sebagai berikut:
 │ │ │ └── random.cpython-311.pyc
 │ │ ├── base.py
 │ │ ├── mybot.py
+│ │ ├── jeno.py
 │ │ └── random.py
 │ ├── models.py
 │ └── util.py
 ├── .gitignore
 ├── decode.py
-├── jeno.py
 ├── main.py
 ├── README.md
 ├── requirements.txt
