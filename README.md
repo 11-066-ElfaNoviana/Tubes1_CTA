@@ -15,6 +15,13 @@
 Bot otomatis untuk permainan Diamonds dengan strategi greedy<br>
 Terkait permainan dapat dilihat pada pranala [ini](https://drive.google.com/file/d/17_d7sRWhr0TspjS0ZqIIQCnQnElPaeDR/view)<br>
 
+Algoritma greedy yang digunakan sebagai berikut:
+1. Memilih diamond terdekat untuk meminimalkan jarak tempuh.
+2. Memilih diamond bernilai tertinggi dengan mempertimbangkan jarak.
+3. Optimasi pengumpulan diamond dalam kondisi papan dinamis.
+4. Menggunakan teleporter untuk akses cepat ke blok kaya diamond.
+5. Melakukan Kembali ke base saat inventory penuh.
+
 ## File Structures
 
 *
