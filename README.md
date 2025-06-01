@@ -24,45 +24,44 @@ Algoritma greedy yang digunakan sebagai berikut:
 
 ## File Structures
 
-*
 ├── README.md
 ├── doc
-│   └── tbfoReborn.pdf
-└── src
-    ├── __pycache__
-    │   └── decode.cpython-311.pyc
-    ├── decode.py
-    ├── game
-    │   ├── __init__.py
-    │   ├── __pycache__
-    │   │   ├── __init__.cpython-311.pyc
-    │   │   ├── api.cpython-311.pyc
-    │   │   ├── board_handler.cpython-311.pyc
-    │   │   ├── bot_handler.cpython-311.pyc
-    │   │   ├── models.cpython-311.pyc
-    │   │   └── util.cpython-311.pyc
-    │   ├── api.py
-    │   ├── board_handler.py
-    │   ├── bot_handler.py
-    │   ├── logic
-    │   │   ├── __init__.py
-    │   │   ├── __pycache__
-    │   │   │   ├── __init__.cpython-311.pyc
-    │   │   │   ├── base.cpython-311.pyc
-    │   │   │   ├── mybot.cpython-311.pyc
-    │   │   │   └── random.cpython-311.pyc
-    │   │   ├── base.py
-    │   │   ├── jeno.py
-    │   │   ├── mybot.py
-    │   │   └── random.py
-    │   ├── models.py
-    │   └── util.py
-    ├── .gitignore
-    ├── decode.py
-    ├── main.py
-    ├── requirements.txt
-    ├── run-bots.bat
-    └── run-bots.sh
+│   └── tbfoReborn.pdf
+├── src
+│   ├── __pycache__
+│   │   └── decode.cpython-311.pyc
+│   ├── decode.py
+│   ├── game
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-311.pyc
+│   │   │   ├── api.cpython-311.pyc
+│   │   │   ├── board_handler.cpython-311.pyc
+│   │   │   ├── bot_handler.cpython-311.pyc
+│   │   │   ├── models.cpython-311.pyc
+│   │   │   └── util.cpython-311.pyc
+│   │   ├── api.py
+│   │   ├── board_handler.py
+│   │   ├── bot_handler.py
+│   │   ├── logic
+│   │   │   ├── __init__.py
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-311.pyc
+│   │   │   │   ├── base.cpython-311.pyc
+│   │   │   │   ├── mybot.cpython-311.pyc
+│   │   │   │   └── random.cpython-311.pyc
+│   │   │   ├── base.py
+│   │   │   ├── jeno.py
+│   │   │   ├── mybot.py
+│   │   │   └── random.py
+│   │   ├── models.py
+│   │   └── util.py
+├── .gitignore
+├── decode.py
+├── main.py
+├── requirements.txt
+├── run-bots.bat
+└── run-bots.sh
 
 
 ## Requirement
